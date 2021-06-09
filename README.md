@@ -10,3 +10,5 @@ async_web_server_cpp is released with a BSD license. For full terms and conditio
 
 ### Authors
 See the [AUTHORS](AUTHORS.md) file for a full list of contributors.
+
+using with Web Video Server http://wiki.ros.org/web_video_server
